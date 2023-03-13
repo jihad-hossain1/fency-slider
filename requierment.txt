@@ -1,0 +1,12 @@
+Project 1: Fancy Slider  ( Requirments)
+1.	API থেকে ডাটা Fetch হচ্ছে না
+2.	Photo Slider তৈরী হচ্ছে না 
+3.	Search Field এর Text Clear হচ্ছে না
+4.	Search Field কে Validate করতে হবে।
+5.	Photo Slide Change এর Duration Negative Value নেওয়া যাবে না 
+6.	Enter key trigger করতে হবে অর্থাৎ Enter Key  Press করলেও Search হবে । 
+7.	Image এ Double Click করলে  Image Unselect  হবে 
+
+Check 
+   Live Site [with bugs]  - https://fancy-slider-bugs.netlify.app/ 
+   Live Site [without bugs ] - https://fancy-slider-js-projct.netlify.app/ 
